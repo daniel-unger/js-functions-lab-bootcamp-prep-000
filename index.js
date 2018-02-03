@@ -54,7 +54,7 @@ function happyHolidaysTo(name) {
          expect(happyHolidayTo('Independence Day', 'you')).toEqual('Happy Independence Day, you!')
        })
      })*/
-    
+
 	function happyHolidayTo(holiday, name) {
   return `Happy ${Happy Independence Day}, ${name}!`
 	}
