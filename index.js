@@ -20,7 +20,7 @@
     return  "Happy holidays!";
    }
 
-  /* Write a function named happyHolidays. This function 
+  /* Write a function named happyHolidays. This function
    should not accept any parameters and should return the string "Happy holidays!".
    function happyHolidays() {
        return ;              // The function returns the product of p1 and p2
