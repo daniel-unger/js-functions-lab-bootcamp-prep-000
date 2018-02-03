@@ -39,5 +39,5 @@ Write a function named happyHolidaysTo. This function should accept a parameter 
 
 // # 2 -
 function happyHolidaysTo(Dad) {
-    return "Happy holidays, ${name}!"
+    return "Happy holidays, you!!"
 }
