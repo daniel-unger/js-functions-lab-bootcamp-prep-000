@@ -44,3 +44,8 @@ Write a function named happyHolidaysTo. This function should accept a parameter 
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
+// # 3
+
+	function happyHolidayTo(holiday, name) {
+  return `Happy ${holiday}, ${name}!`
+	}
