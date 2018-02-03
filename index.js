@@ -47,7 +47,14 @@ function happyHolidaysTo(name) {
 // # 3
 /*functions happyHolidayTo(holiday, name) returns "Happy ${holiday}, ${name}!":
     ReferenceError: happyHolidayTo is not defined
-     at Context.it (test/index-test.js:18:7)*/
+     at Context.it (test/index-test.js:18:7)
+
+     describe('happyHolidayTo(holiday, name)', () => {
+       it('returns "Happy ${holiday}, ${name}!"', () => {
+         expect(happyHolidayTo('Independence Day', 'you')).toEqual('Happy Independence Day, you!')
+       })
+     })*/
+    
 	function happyHolidayTo(holiday, name) {
-  return `Happy ${holiday}, ${name}!`
+  return `Happy ${Happy Independence Day}, ${name}!`
 	}
