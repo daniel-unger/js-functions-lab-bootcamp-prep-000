@@ -38,6 +38,6 @@
 Write a function named happyHolidaysTo. This function should accept a parameter of the name of the person you want to wish happy holidays, and return the string `Happy holidays, ${name}!`*/
 
 // # 2 -
-function happyHolidaysTo(Dad) {
-    return "Happy holidays, you!!"
+function happyHolidaysTo('you') {
+    return "Happy holidays,  ${name}!"
 }
