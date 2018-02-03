@@ -16,8 +16,10 @@
         expect(happyHolidays()).toEqual('Happy holidays!')
       })
     })*/
-  2- function happyHolidays() {
-    return  "Happy holidays!";
+  //2-
+
+   function happyHolidays() {
+    return string."Happy holidays!";
    }
 
   /* Write a function named happyHolidays. This function
