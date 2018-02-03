@@ -19,7 +19,7 @@
   //2-
 
    function happyHolidays() {
-    return string."Happy holidays!";
+    return "Happy holidays!";
    }
 
   /* Write a function named happyHolidays. This function
