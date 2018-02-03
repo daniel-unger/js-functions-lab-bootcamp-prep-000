@@ -45,7 +45,9 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 // # 3
-
+/*functions happyHolidayTo(holiday, name) returns "Happy ${holiday}, ${name}!":
+    ReferenceError: happyHolidayTo is not defined
+     at Context.it (test/index-test.js:18:7)*/
 	function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 	}
